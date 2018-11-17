@@ -9,6 +9,7 @@ def second_challenge
   #code your solution here!
 array = []
 array.push(groceries.values)
+array.flatten
 
 end
 second_challenge
