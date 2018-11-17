@@ -7,8 +7,8 @@ def second_challenge
   }
 
   #code your solution here!
-puts groceries.values
-  
+array = []
+array.push(groceries.values)
 
 end
 second_challenge
